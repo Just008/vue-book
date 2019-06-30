@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="720" src="./book.jpg">
+  <img width="720" src="https://raw.githubusercontent.com/Just008/vue-book/master/docs/.vuepress/public/book.jpg">
 </p>
 
 cooming soon
