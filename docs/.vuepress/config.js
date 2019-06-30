@@ -2,8 +2,8 @@ const utils = require("./utils")
 
 module.exports = {
   title: 'Vue Book Study',
-  description: "Study Swoole4 by Myself",
-  base: '/swoole/',
+  description: "Vue.js 实战学习和总结",
+  base: '/vue-book/',
   head: [
     [
       "link",
@@ -14,6 +14,11 @@ module.exports = {
     ]
   ],
   themeConfig: {
+    nav: [
+      {text: "基础知识", link: '/base/'},
+      {text: "进阶", link: '/advance/'},
+      {text: "项目", link: '/projects/'},
+    ],
     sidebar: utils.inferSiderbars(),
     repo: "Just008/vue-book",
     lastUpdated: "上次更新",

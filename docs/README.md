@@ -1,8 +1,8 @@
 ---
 home: true
-heroImage: /swoole.png
+heroImage: /book.jpg
 actionText: 开始了解 →
-actionLink: /swoole/
+actionLink: /base/
 
 footer: MIT Licensed | Copyright © 2019-Just008
 ---
